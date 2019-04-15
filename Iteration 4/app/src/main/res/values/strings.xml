@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chicken Cross</string>
+    <string name="start"> Start New Game</string>
+    <string name="start_desc">Begin a new cross!</string>
+    <string name="profile">Player Profile</string>
+    <string name="profile_desc">Create or change your player profile!</string>
+    <string name="character">Character Customizer</string>
+    <string name="character_desc">Customize or change your current character!</string>
+</resources>
