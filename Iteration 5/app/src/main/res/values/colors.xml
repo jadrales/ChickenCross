@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="lilac">#f2cdee</color>
+    <color name="eggshell">#ffeffb</color>
+    <color name="yolk">#f6f995</color>
+    <color name="natural">#ffd8af</color>
+    <color name="henHouse">#d2efef</color>
+    <color name="comb">#591c1c</color>
+</resources>
